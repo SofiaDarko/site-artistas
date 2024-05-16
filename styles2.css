@@ -1,0 +1,32 @@
+*{
+}
+
+body, html {
+    background-color: black;
+    font-family:  "Darker Grotesque";
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    color: #ffffff;
+}
+
+.logo{
+    display: flex;
+    justify-content: end;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+.links {
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.links a {
+    justify-content: space-evenly;
+    text-decoration: none;
+    color: #FDF52D;
+}
